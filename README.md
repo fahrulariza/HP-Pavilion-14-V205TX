@@ -21,11 +21,11 @@ Hackintosh **macOS Big Sur 11.7.6** | **HP Pavilion 14-V205TX**
 - **Ethernet :** 1x [Qualcomm Atheros AR9485WB-EG Network Adapter 72 MB Ethernet](https://www.ath-drivers.eu/download-driver-for-Atheros-chipset-with-id-61-and-Windows10-64bit.html)
 - **Wi-Fi :** [RealTek RTL8101/2/3 Family Fast Ethernet NIC](https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software)
 - **Bluetooth :** [Atheros AR3012 version 4.0](https://www.ath-drivers.eu/download-driver-for-Atheros-chipset-with-id-77-and-Windows10-64bit.html)
-- **Camera :** Chicony Electronics HP Truevision HD Webcam
-- **USB :** Intel Broadwell Chipset
-- **Touchpad :** ALPS Pointing-device
+- **Camera :** [Chicony Electronics HP Truevision HD Webcam](https://id.webcamtests.com/reviews/17777)
+- **USB :** [Intel Broadwell Chipset](https://ark.intel.com/content/www/id/id/ark/products/codename/38530/products-formerly-broadwell.html)
+- **Touchpad :** [ALPS Pointing-device](https://osxlatitude.com/forums/topic/8285-refined-alps-touchpad-driver/)
 - **External Ports :** 1x SDCard Reader + 2x USB 3.0 + 1 USB 2.0 + 1x HDMI + 1x RJ45
-- **Audio Codec :** Realtek Audio ALC290 (3,4,10,15,25)
+- **Audio Codec :** [Realtek Audio ALC290](https://witcomputers.com/product/alc-290-realtek-audio-chip-ics/) (3,4,10,15,25)
 - **Display Size and Model :** 14” LG Philips diagonal HD WLED-backlit
 - **Monitor Resolution :** HD 1366 x 768
 - **Boot Mode :** UEFI GPT
@@ -41,7 +41,7 @@ Hackintosh **macOS Big Sur 11.7.6** | **HP Pavilion 14-V205TX**
 - QE/CI of Intel HD Graphics 5500 (1536MB) | **ig-platform-id** : 06002616 + SMBIOS MBP12,1 ([Lilu](https://github.com/acidanthera/Lilu/releases), [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases))
 - CPU Power Management (SSDT-PLUG)
 - Restart, Sleep and Shutdown
-- Internal Speaker, Headphone and Internal Microphone | with layout-id 4 ([AppleALC](https://github.com/acidanthera/applealc/releases), [Lilu](https://github.com/acidanthera/Lilu/releases), SSDT-IRQFix)
+- [Internal Speaker, Headphone and Internal Microphone](https://www.tonymacx86.com/threads/solved-intel-hd-graphics-520-realtek-alc290-codec-alc3241-rtl8101e-hp-laptop.210923/page-6) | with layout-id 3,4,10,15,25 ([AppleALC](https://github.com/acidanthera/applealc/releases), [Lilu](https://github.com/acidanthera/Lilu/releases), SSDT-IRQFix)
 - Touchpad with Gestures
 - Brightness | (SSDT-PNLF)
 - FN + Brightness Button Up/Down | (SSDT-PNLF)
