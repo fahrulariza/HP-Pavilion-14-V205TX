@@ -17,9 +17,9 @@ Hackintosh **macOS Big Sur 11.7.6** | **HP Pavilion 14-V205TX**
 - **iGPU :** [Intel® HD Graphics 5500](https://ark.intel.com/content/www/id/id/ark/products/graphics/86210/intel-hd-graphics-5500.html)
 - **dGPU :** [Nvidia GeForce 840M (Optimus)](https://www.nvidia.com/en-us/geforce/gaming-laptops/geforce-840m/)
 - **Memory :** 8GB 2x4GB DDR3L PC3-12800 / 1600Mhz
-- **Storage :** 1x ADATA SU650 SSD 240GB (Windows 10) + 1x SDD Candy VENOMRX 1TB (macOS)
-- **Ethernet :** 1x Qualcomm Atheros AR9485WB-EG Network Adapter 72 MB Ethernet
-- **Wi-Fi :** RealTek Semiconductor RTL8101/2/3 Family Fast Ethernet NIC
+- **Storage :** 1x [ADATA SU650 SSD 240GB](https://www.adata.com/us/specification/503) (Windows 10) + 1x  Candy 2,5" [SATA SDD VENOMRX 1TB](https://venomrxs.com/ssd/super-ssd-sata/) (macOS)
+- **Ethernet :** 1x [Qualcomm Atheros AR9485WB-EG Network Adapter 72 MB Ethernet](https://www.ath-drivers.eu/download-driver-for-Atheros-chipset-with-id-61-and-Windows10-64bit.html)
+- **Wi-Fi :** [RealTek RTL8101/2/3 Family Fast Ethernet NIC](https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software)
 - **Bluetooth :** [Atheros AR3012 version 4.0](https://www.ath-drivers.eu/download-driver-for-Atheros-chipset-with-id-77-and-Windows10-64bit.html)
 - **Camera :** Chicony Electronics HP Truevision HD Webcam
 - **USB :** Intel Broadwell Chipset
