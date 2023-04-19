@@ -1,6 +1,6 @@
 # **Hackintosh-HP-Pavilion-V205TX**
 
-Hackintosh **macOS Big Sur 11.7.6**| **HP Pavilion 14-V205TX** **
+Hackintosh **macOS Big Sur 11.7.6**| **HP Pavilion 14-V205TX**
 
 ---
 
@@ -30,7 +30,7 @@ Hackintosh **macOS Big Sur 11.7.6**| **HP Pavilion 14-V205TX** **
 - **Monitor Resolution :** HD 1366 x 768
 - **Boot Mode :** UEFI GPT
 - **BIOS Manufacturer :** Insyde Software version F.57
-- **SMbios : MacBookAir7,2
+- **SMbios :** MacBookAir7,2
 - **OS Version :** [macOS Big Sur 11.7.6](https://github.com/corpnewt/gibMacOS)
 - **Bootloader :** [OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg/releases)
 
@@ -83,6 +83,7 @@ Hackintosh **macOS Big Sur 11.7.6**| **HP Pavilion 14-V205TX** **
 **Tutorial**
 
 [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+if you used this my EFI please Generate New SMbios
 
 ---
 
