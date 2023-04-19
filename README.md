@@ -1,6 +1,6 @@
-# **Hackintosh-HP-Pavilion-V205TX**
+# **Hackintosh EFI HP Pavilion 14-V205TX**
 
-Hackintosh **macOS Big Sur 11.7.6**| **HP Pavilion 14-V205TX**
+Hackintosh **macOS Big Sur 11.7.6** | **HP Pavilion 14-V205TX**
 
 ---
 
@@ -31,7 +31,7 @@ Hackintosh **macOS Big Sur 11.7.6**| **HP Pavilion 14-V205TX**
 - **Boot Mode :** UEFI GPT
 - **BIOS Manufacturer :** Insyde Software version F.57
 - **SMbios :** MacBookAir7,2
-- **OS Version :** [macOS Big Sur 11.7.6](https://github.com/corpnewt/gibMacOS)
+- **OS Version :** [macOS Big Sur 11.7](https://www.olarila.com/topic/6278-olarila-vanilla-images-macos-installer/)
 - **Bootloader :** [OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg/releases)
 
 ---
