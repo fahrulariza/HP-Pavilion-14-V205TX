@@ -12,15 +12,15 @@ Hackintosh **macOS Big Sur 11.7.6** | **HP Pavilion 14-V205TX**
 
 **Specification  :**
 
-- **Processor :** Intel Core i5-5200U @ 2.20GHz 3 MB cache, 2 cores
+- **Processor :** [Intel Core i5-5200U @ 2.20GHz 3 MB cache, 2 cores](https://www.intel.co.id/content/www/id/id/products/sku/85212/intel-core-i55200u-processor-3m-cache-up-to-2-70-ghz/specifications.html)
 - **Motherboard  :** Hewlett-Packard 2295 (Socket BGA1168)
-- **iGPU :** Intel HD 5500
-- **dGPU :** Nvidia GeForce 840M (Optimus)
+- **iGPU :** [Intel® HD Graphics 5500](https://ark.intel.com/content/www/id/id/ark/products/graphics/86210/intel-hd-graphics-5500.html)
+- **dGPU :** [Nvidia GeForce 840M (Optimus)](https://www.nvidia.com/en-us/geforce/gaming-laptops/geforce-840m/)
 - **Memory :** 8GB 2x4GB DDR3L PC3-12800 / 1600Mhz
 - **Storage :** 1x ADATA SU650 SSD 240GB (Windows 10) + 1x SDD Candy VENOMRX 1TB (macOS)
 - **Ethernet :** 1x Qualcomm Atheros AR9485WB-EG Network Adapter 72 MB Ethernet
 - **Wi-Fi :** RealTek Semiconductor RTL8101/2/3 Family Fast Ethernet NIC
-- **Bluetooth :** Atheros AR3012 version 4.0
+- **Bluetooth :** [Atheros AR3012 version 4.0](https://www.ath-drivers.eu/download-driver-for-Atheros-chipset-with-id-77-and-Windows10-64bit.html)
 - **Camera :** Chicony Electronics HP Truevision HD Webcam
 - **USB :** Intel Broadwell Chipset
 - **Touchpad :** ALPS Pointing-device
