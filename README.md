@@ -1,6 +1,6 @@
-# **Hackintosh EFI HP Pavilion 14-V205TX**
+# **Hackintosh EFI HP Pavilion 14-V201TX**
 
-Hackintosh **macOS Big Sur 11.7.6** | **HP Pavilion 14-V205TX**
+Hackintosh **macOS Big Sur 11.7.6** | **HP Pavilion 14-V201TX**
 
 ---
 
